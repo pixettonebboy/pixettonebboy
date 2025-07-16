@@ -27,7 +27,9 @@ The languages I used the most during my studies are:
 - **Arduino "Minimaster" course at Aldini Valeriani Bologna**  
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
-![Snorlax GIF](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif)
+
+
+![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif) 
 
 
 ## 📊 My Github stats (be kind, I'm new here🥺): 
