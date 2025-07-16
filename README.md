@@ -20,13 +20,13 @@ The languages I used the most during my studies are:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)      
 
 
-#### 📜 Some certifications I have taken:**
+### 📜 Some certifications I have taken:**
 - **Cisco IT Essentials**
-- Cisco CCNA  
-- English language level: C1  
-- Arduino "Minimaster" course at Aldini Valeriani Bologna  
-- Web developing "Minimaster" course at Aldini Valeriani Bologna  
-- Basic robotics and automation course at IC9 Bologna  
+- **Cisco CCNA**  
+- **English language level:** ![English C1](https://img.shields.io/badge/English-C1-blue?style=flat&logo=apachecordova&logoColor=white)  
+- **Arduino "Minimaster" course at Aldini Valeriani Bologna**  
+- **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
+- **Basic robotics and automation course at IC9 Bologna**  
 
 
 ## 📊 My Github stats (be kind, I'm new here🥺): 
