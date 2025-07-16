@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me:
 - Email: achillepisa@gmail.it  
-- LinkedIn: ~work in progress...~  
+- LinkedIn: *work in progress...*  
 
 ## 🛠️ My skills:
 The languages I used the most during my studies are:  
