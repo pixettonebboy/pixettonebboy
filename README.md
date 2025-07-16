@@ -3,17 +3,21 @@
 🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.  
 🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.  
 👀 Learning 3D modeling (and how to create a decent github profile🙈).  
-🎾 Love playing tennis, going to concerts, traveling.  
+🎾 Love playing tennis, going to concerts, traveling...  
 
 ## 📫 How to reach me:
-- Email: achille@email.it
-- LinkedIn: [linkedin.com/in/achille](https://linkedin.com/in/achille)
+- Email: achillepisa@gmail.it  
+- LinkedIn: ~work in progress...~  
 
-## 🛠️ Competenze
+## 🛠️ My skills:
+The languages I used the most during my studies are:  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📊 My Github stats (I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
