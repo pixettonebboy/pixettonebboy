@@ -28,7 +28,7 @@ The languages I used the most during my studies are:
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
 
-
+##
 ## ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif) 
 
 
