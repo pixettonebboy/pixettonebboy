@@ -6,7 +6,7 @@
 🎾 Love playing tennis, going to concerts, movies, traveling...  
 
 ## 📫 How to reach me:
-- Email: achillepis@gmail.com  
+- Email: achillepisa@gmail.com  
 - LinkedIn: *work in progress...*  
 
 ## 🛠️ My skills:
