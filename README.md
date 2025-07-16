@@ -28,6 +28,7 @@ The languages I used the most during my studies are:
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
 
+![zzz](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpoke-flute-gifs&psig=AOvVaw36wp-tDPfRBysdrQhrnPFZ&ust=1752794231366000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDNr8DBwo4DFQAAAAAdAAAAABAE)
 
 ## 📊 My Github stats (be kind, I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
