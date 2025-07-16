@@ -35,8 +35,8 @@ The languages I used the most during my studies are:
       <img src="https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif" width="250">
     </td>
     <td>
-      <b>Snorlax is blocking the path!</b><br>
-      I just want to take a nap too 😴
+      <b>Oh... he is blocking the path!</b><br>
+      I think I should improve my page another day 😴
     </td>
   </tr>
 </table>
