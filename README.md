@@ -1,9 +1,9 @@
 # Hi 👋, I'm Achille!
 
-🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.
-🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.
-👀 Learning 3D modeling (and how to create a decent github profile🙈).
-🎾 Love playing tennis, going to concerts, traveling.
+🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.  
+🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.  
+👀 Learning 3D modeling (and how to create a decent github profile🙈).  
+🎾 Love playing tennis, going to concerts, traveling.  
 
 ## 📫 How to reach me:
 - Email: achille@email.it
