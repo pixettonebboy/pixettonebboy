@@ -29,7 +29,17 @@ The languages I used the most during my studies are:
 - **Basic robotics and automation course at IC9 Bologna**  
 
 ##
- ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif)  asasasas
+<table>
+  <tr>
+    <td>
+      <img src="https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif" width="150">
+    </td>
+    <td>
+      <b>Snorlax is blocking the path!</b><br>
+      I just want to take a nap too 😴
+    </td>
+  </tr>
+</table>
 ##
 
 
@@ -40,6 +50,8 @@ The languages I used the most during my studies are:
 
 🔭 *"Always learning, always growing."*
 <!--
+ ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif)  asasasas
+
 **pixettonebboy/pixettonebboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
