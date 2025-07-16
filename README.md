@@ -1,5 +1,24 @@
-## Hi there 👋
+# Ciao 👋, sono Achille Pisani!
 
+🎓 Studente appassionato di informatica, elettronica e scacchi.  
+🚀 Sto imparando Java, C, Bash e a usare Git e GitHub!  
+
+## 📫 Come contattarmi:
+- Email: achille@email.it
+- LinkedIn: [linkedin.com/in/achille](https://linkedin.com/in/achille)
+
+## 🛠️ Competenze
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📊 Statistiche GitHub
+![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achillepisani&show_icons=true&theme=github_dark)
+
+---
+
+🔭 *"Always learning, always growing."*
 <!--
 **pixettonebboy/pixettonebboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
