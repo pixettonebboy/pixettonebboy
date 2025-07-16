@@ -32,7 +32,7 @@ The languages I used the most during my studies are:
 <table>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif" width="1500">
+      <img src="https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif" width="400">
     </td>
     <td>
       <b>Snorlax is blocking the path!</b><br>
