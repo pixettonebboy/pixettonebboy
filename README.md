@@ -20,7 +20,7 @@ The languages I used the most during my studies are:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)      
 
 
-### 📜 Some certifications I have taken:**
+#### 📜 Some certifications I have taken:**
 - Cisco IT Essentials  
 - Cisco CCNA  
 - English language level: C1  
