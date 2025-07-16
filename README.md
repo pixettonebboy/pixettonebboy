@@ -23,7 +23,7 @@ The languages I used the most during my studies are:
 ### 📜 Some certifications I have completed:
 - **Cisco IT Essentials**
 - **Cisco CCNA**  
-- **English language proficiency:** English language proficiency: <img src="https://img.shields.io/badge/C1-level-blue?style=flat" alt="C1" style="vertical-align:high;">  
+- **English language proficiency:** English language proficiency: ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)
 - **Arduino "Minimaster" course at Aldini Valeriani Bologna**  
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
@@ -46,7 +46,7 @@ The languages I used the most during my studies are:
 ## 📊 My Github stats (be kind, I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
 
-![C1](https://img.shields.io/badge/C1-level-blue?style=flat)
+
 
 ---
 
