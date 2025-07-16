@@ -3,7 +3,7 @@
 🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.
 🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.
 👀 Learning 3D modeling (and how to create a decent github profile🙈).
-🎾 Love playing tennis, going to concerts, 
+🎾 Love playing tennis, going to concerts, traveling.
 
 ## 📫 How to reach me:
 - Email: achille@email.it
@@ -15,7 +15,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 Statistiche GitHub
+## 📊 My Github stats (I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
 
 ---
