@@ -21,7 +21,7 @@ The languages I used the most during my studies are:
 
 
 #### 📜 Some certifications I have taken:**
-- Cisco IT Essentials  
+- **Cisco IT Essentials ** 
 - Cisco CCNA  
 - English language level: C1  
 - Arduino "Minimaster" course at Aldini Valeriani Bologna  
