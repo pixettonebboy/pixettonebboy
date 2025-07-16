@@ -28,7 +28,8 @@ The languages I used the most during my studies are:
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
 
-![zzz](https://tenor.com/it/view/pokemon-fire-red-leaf-green-remake-snorlax-gif-23083502)
+![Snorlax GIF](https://media.tenor.com/Wm3eRgCRdyoAAAAC/pokemon-fire-red-leaf-green-remake-snorlax.gif)
+
 
 ## 📊 My Github stats (be kind, I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
