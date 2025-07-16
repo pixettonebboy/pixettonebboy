@@ -3,7 +3,7 @@
 🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.  
 🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.  
 👀 Learning 3D modeling (and how to create a decent github profile🙈).  
-🎾 Love playing tennis, going to concerts, traveling...  
+🎾 Love playing tennis, going to concerts, movies, traveling...  
 
 ## 📫 How to reach me:
 - Email: achillepisa@gmail.it  
@@ -20,7 +20,7 @@ The languages I used the most during my studies are:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)      
 
 
-**Some certifications I have taken:**
+### 📜 Some certifications I have taken:**
 - Cisco IT Essentials  
 - Cisco CCNA  
 - English language level: C1  
