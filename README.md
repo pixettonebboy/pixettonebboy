@@ -29,8 +29,8 @@ The languages I used the most during my studies are:
 - **Basic robotics and automation course at IC9 Bologna**  
 
 ##
-## ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif)  asasasas
-
+ ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif)  asasasas
+##
 ## 📊 My Github stats (be kind, I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
 
