@@ -22,8 +22,14 @@ The languages I used the most during my studies are:
 
 ### 📜 Some certifications I have completed:
 - **Cisco IT Essentials**
-- **Cisco CCNA**  
-- **English language proficiency:** ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)
+- **Cisco CCNA**
+- <p>
+  English language proficiency: 
+  <img src="https://img.shields.io/badge/C1-level-blue?style=flat" alt="C1" style="vertical-align:middle;">
+</p>  
+- **English language proficiency:**
+-
+- ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)
 - **Arduino "Minimaster" course at Aldini Valeriani Bologna**  
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
