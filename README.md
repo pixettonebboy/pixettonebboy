@@ -11,7 +11,7 @@
 
 ## 🛠️ My skills:
 The languages I used the most during my studies are:  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
@@ -19,7 +19,7 @@ The languages I used the most during my studies are:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 📊 My Github stats (I'm new here🥺): 
+## 📊 My Github stats (be kind, I'm new here🥺): 
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
 
 ---
