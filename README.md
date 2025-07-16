@@ -1,12 +1,12 @@
 # Hi 👋, I'm Achille!
 
-🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.  
-🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.  
+🎓 Bachelor’s student in Computer Engineering at Alma Mater Studiorum - UniBo.  
+🚀 Interested in Software Development, Database design, Web applications and Hardware specifics.  
 👀 Learning 3D modeling (and how to create a decent github profile🙈).  
 🎾 Love playing tennis, going to concerts, movies, traveling...  
 
 ## 📫 How to reach me:
-- Email: achillepisa@gmail.it  
+- Email: achillepis@gmail.com  
 - LinkedIn: *work in progress...*  
 
 ## 🛠️ My skills:
@@ -20,10 +20,10 @@ The languages I used the most during my studies are:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)      
 
 
-### 📜 Some certifications I have taken:
+### 📜 Some certifications I have completed:
 - **Cisco IT Essentials**
 - **Cisco CCNA**  
-- **English language:** ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)  
+- **English language proficiency:** ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)  
 - **Arduino "Minimaster" course at Aldini Valeriani Bologna**  
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
@@ -36,7 +36,7 @@ The languages I used the most during my studies are:
     </td>
     <td>
       <b>Oh... he is blocking the path!</b><br>
-      I think I should improve my page another day 😴
+      I guess I’ll improve my page some other day 😴
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@ The languages I used the most during my studies are:
 
 ---
 
-🔭 *"Always learning, always growing."*
+🔭 *"Don't worry, it'll work out somehow."*
 <!--
  ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif)  asasasas
 
