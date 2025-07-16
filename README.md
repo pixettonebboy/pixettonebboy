@@ -20,7 +20,7 @@ The languages I used the most during my studies are:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)      
 
 
-### 📜 Some certifications I have taken:**
+### 📜 Some certifications I have taken:
 - **Cisco IT Essentials**
 - **Cisco CCNA**  
 - **English language:** ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)  
@@ -28,7 +28,7 @@ The languages I used the most during my studies are:
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
 - **Basic robotics and automation course at IC9 Bologna**  
 
-##
+
 <table>
   <tr>
     <td>
@@ -40,7 +40,7 @@ The languages I used the most during my studies are:
     </td>
   </tr>
 </table>
-##
+
 
 
 ## 📊 My Github stats (be kind, I'm new here🥺): 
