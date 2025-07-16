@@ -29,7 +29,7 @@ The languages I used the most during my studies are:
 - **Basic robotics and automation course at IC9 Bologna**  
 
 
-![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif) 
+## ![ZzZ](https://media1.tenor.com/m/p72iZijOaMAAAAAC/pokemon-fire-red.gif) 
 
 
 ## 📊 My Github stats (be kind, I'm new here🥺): 
