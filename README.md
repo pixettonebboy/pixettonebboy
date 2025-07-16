@@ -23,8 +23,8 @@ The languages I used the most during my studies are:
 • Cisco IT Essentials  
 • Cisco CCNA  
 • English language level: C1  
-• Arduino "Minimaster" Course at Aldini Valeriani Bologna  
-• Web developing "Minimaster" Course at Aldini Valeriani Bologna  
+• Arduino "Minimaster" course at Aldini Valeriani Bologna  
+• Web developing "Minimaster" course at Aldini Valeriani Bologna  
 • Basic robotics and automation course at IC9 Bologna  
 
 
