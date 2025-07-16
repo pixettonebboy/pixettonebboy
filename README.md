@@ -1,9 +1,11 @@
-# Ciao 👋, sono Achille Pisani!
+# Hi 👋, I'm Achille!
 
-🎓 Studente appassionato di informatica, elettronica e scacchi.  
-🚀 Sto imparando Java, C, Bash e a usare Git e GitHub!  
+🎓 Bachelor Computer Engineering student at Alma Mater Studiorum - UniBo.
+🚀 Interested in Software Development, Database design, Web apps and Hardware specifics.
+👀 Learning 3D modeling (and how to create a decent github profile🙈).
+🎾 Love playing tennis, going to concerts, 
 
-## 📫 Come contattarmi:
+## 📫 How to reach me:
 - Email: achille@email.it
 - LinkedIn: [linkedin.com/in/achille](https://linkedin.com/in/achille)
 
