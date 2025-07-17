@@ -3,7 +3,7 @@
 🎓 Bachelor’s student in Computer Engineering at Alma Mater Studiorum - UniBo.  
 🚀 Interested in Software Development, Database design, Web applications and Hardware specifics.  
 👀 Learning 3D modeling (and how to create a decent github profile🙈).  
-🎾 Love playing tennis, going to concerts, movies, traveling...  
+🎾 Love playing tennis, going to concerts, movies, videogames, traveling...  
 
 ## 📫 How to reach me:
 - Email: achillepisa@gmail.com  
