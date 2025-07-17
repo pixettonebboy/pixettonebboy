@@ -26,7 +26,9 @@ The languages I used the most during my studies are:
 - **English language proficiency:** ![C1](https://img.shields.io/badge/C1-level-blue?style=flat)
 - **Arduino "Minimaster" course at Aldini Valeriani Bologna**  
 - **Web developing "Minimaster" course at Aldini Valeriani Bologna**  
-- **Basic robotics and automation course at IC9 Bologna**  
+- **Basic robotics and automation course at IC9 Bologna**
+- ![🎓](https://img.shields.io/badge/Diploma-Information%20Technology-blue) Aldini Valeriani Technical Institute, Bologna
+
 
 ##
 <table>
