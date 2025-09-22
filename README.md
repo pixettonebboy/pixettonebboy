@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me:
 - Email: achillepisa@gmail.com  
-- LinkedIn: *work in progress...*  
+- LinkedIn: [Click Here](https://www.linkedin.com/in/achille-pisani-0b3350386/)  
 
 ## 🛠️ My skills:
 The languages I used the most during my studies are:  
