@@ -49,7 +49,8 @@ The languages I used the most during my studies are:
 
 
 
-## 📊 My Github stats (be kind, I'm new here🥺): 
+## 📊 Some of my Github stats: 
+[![Top Languages](https://github-readme-stats.vercel.app)](https://github.com)
 ![Achille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixettonebboy&show_icons=true&theme=github_dark)
 
 
