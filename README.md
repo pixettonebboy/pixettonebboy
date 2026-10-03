@@ -2,7 +2,7 @@
 
 🎓 Master’s student in Computer Engineering at Alma Mater Studiorum - UniBo.  
 🚀 Interested in Software Development, Machine Learning and Data Science, Cybersecurity, Hardware technologies and much more.  
-👀 Learning CUDA, Go and 3D modeling.
+👀 Deepening my skills in CUDA, Go and 3D modeling.
 
 ## 📫 How to reach me:
 <p align="left"> 
@@ -19,7 +19,7 @@
     <img src="https://giffiles.alphacoders.com/246/2468.gif" width="100%" alt="Animated GIF" /> 
   </td> 
   <td width="60%" align="center" valign="middle"> 
-    <a href="https://github.com/pixettonebboy/github-readme-stats"> 
+    <a href="https://github.com/pixettonebboy?tab=repositories"> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixettonebboy&layout=compact&langs_count=10&hide_border=true" alt="Achille's Top Languages" width="100%" /> 
     </a> 
   </td> 
