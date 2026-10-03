@@ -10,16 +10,7 @@
 
 
 ##
-<table>
-  <tr>
-    <td>
-      <img src="https://giffiles.alphacoders.com/246/2468.gif" width="250">
-    </td>
-        <td>
-      [![Achille's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixettonebboy)](https://github.com/pixettonebboy/github-readme-stats)
-    </td>
-  </tr>
-</table>
+<table> <tr> <td width="40%" align="center" valign="middle"> <img src="https://giffiles.alphacoders.com/246/2468.gif" width="100%" alt="Animated GIF" /> </td> <td width="60%" align="center" valign="middle"> <a href="https://github.com/pixettonebboy/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixettonebboy&layout=compact&langs_count=10&hide_border=true" alt="Achille's Top Languages" width="100%" /> </a> </td> </tr> </table>
 
 
 
