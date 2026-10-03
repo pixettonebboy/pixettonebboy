@@ -15,11 +15,14 @@
     <td>
       <img src="https://giffiles.alphacoders.com/246/2468.gif" width="250">
     </td>
+        <td>
+      [![Achille's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixettonebboy)](https://github.com/pixettonebboy/github-readme-stats)
+    </td>
   </tr>
 </table>
 
 
-[![Achille's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixettonebboy)](https://github.com/pixettonebboy/github-readme-stats)
+
 
 
 
