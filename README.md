@@ -28,4 +28,4 @@
 
 ---
 
-🔭 *"Don't worry, it'll work out somehow."*
+🔭 *"Everything will work out."*
